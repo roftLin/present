@@ -1,0 +1,22 @@
+{
+  "name": "present",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://gitee.com/roft/present.git",
+  "author": "roftLin <315779478@qq.com>",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.10.4",
+    "codecov": "^3.7.2",
+    "jest": "^26.1.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "cover": "jest --coverage",
+    "coveralls": "./node_modules/.bin/jest && codecov"
+  },
+  "jest": {
+    "coverageDirectory": "./coverage/",
+    "collectCoverage": true
+  }
+}

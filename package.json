@@ -13,7 +13,7 @@
   "scripts": {
     "test": "jest",
     "cover": "jest --coverage",
-    "coveralls": "./node_modules/.bin/jest && codecov --token=76ca48cd-d744-460f-9e2d-bd3bd1ece032"
+    "coveralls": "./node_modules/.bin/jest && codecov"
   },
   "jest": {
     "coverageDirectory": "./coverage/",

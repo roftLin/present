@@ -4,7 +4,7 @@
 [![Repo Size](https://img.shields.io/github/repo-size/roftLin/present)](https://img.shields.io/github/repo-size/roftLin/present)
 [![Repo Version](https://img.shields.io/npm/v/@roft/present)](https://img.shields.io/github/repo-size/roftLin/present)   
 
-A helper project starter kit. It helps you start new helper projects in a second. So, that you can implement the awesome idea before it fades away.
+A helper project . 
 
 ## Quick Start
 

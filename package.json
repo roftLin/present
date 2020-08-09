@@ -1,5 +1,5 @@
 {
-  "name": "present",
+  "name": "@roft/present",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://gitee.com/roft/present.git",

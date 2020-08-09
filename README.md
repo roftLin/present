@@ -3,15 +3,15 @@
 [![Coverage Status](https://img.shields.io/codecov/c/github/roftLin/present)](https://codecov.io/gh/roftLin/present)
 [![Repo Size](https://img.shields.io/github/repo-size/roftLin/present)](https://img.shields.io/github/repo-size/roftLin/present)
 [![Repo Version](https://img.shields.io/npm/v/@roft/present)](https://img.shields.io/github/repo-size/roftLin/present)   
-一个helper项目启动工具包。它可以帮助您在一秒钟内启动新的helper项目。
+一个helper。
 
 ## 快速开始
 
 拷贝这个仓库
 
 ```
-git clone https://gitee.com/roft/helper-starter-kit.git
-cd helper-starter-kit 
+git clone https://gitee.com/roft/present.git
+cd present
 yarn
 yarn test
 ```

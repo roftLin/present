@@ -18,5 +18,8 @@
   "jest": {
     "coverageDirectory": "./coverage/",
     "collectCoverage": true
+  },
+  "dependencies": {
+    "@roft/dp": "^1.0.0"
   }
 }

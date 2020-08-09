@@ -468,6 +468,11 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
+"@roft/dp@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.npm.taobao.org/@roft/dp/download/@roft/dp-1.0.0.tgz#399f56e3cc63d409e6e42f0d1f0410af94bb9f46"
+  integrity sha1-OZ9W48xj1Anm5C8NHwQQr5S7n0Y=
+
 "@sinonjs/commons@^1.7.0":
   version "1.8.1"
   resolved "https://registry.yarnpkg.com/@sinonjs/commons/-/commons-1.8.1.tgz#e7df00f98a203324f6dc7cc606cad9d4a8ab2217"

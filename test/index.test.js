@@ -2,8 +2,8 @@
 import index from '../index'
 
 describe('index', () => {
-  it('should ', () => {
-    // expect(index(1, 2)).toBe(3);
+  it('should equal', () => {
+    expect(index({ a: null, c: { b: 1, d: undefined } })).toEqual({ c: { b: 1 } });
   })
 })
 

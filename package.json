@@ -15,10 +15,6 @@
     "cover": "jest --coverage",
     "coveralls": "./node_modules/.bin/jest && codecov"
   },
-  "jest": {
-    "coverageDirectory": "./coverage/",
-    "collectCoverage": true
-  },
   "dependencies": {
     "@roft/dp": "^1.0.0"
   }
